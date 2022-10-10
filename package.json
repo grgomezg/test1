@@ -1,0 +1,20 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "primer proyecto de pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grgomezg/test1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grgomezg/test1/issues"
+  },
+  "homepage": "https://github.com/grgomezg/test1#readme"
+}
